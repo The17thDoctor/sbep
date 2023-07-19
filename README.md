@@ -29,7 +29,7 @@ How to Tortoise Git + Clone/Pull: http://steamcommunity.com/groups/spacebuild/di
 Simply clone this repository into your `addons` folder:
 
     cd "%programfiles(x86)%/Steam/SteamApps/common/GarrysMod/garrysmod/addons"
-    git clone https://github.com/spacebuild/spacebuild.git spacebuild
+    git clone https://github.com/spacebuild/sbep.git sbep
 
 
 Contributors
