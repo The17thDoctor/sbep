@@ -1,6 +1,5 @@
-"VertexLitGeneric"
+"UnlitGeneric"
 {
 	"$baseTexture" "cmats/light"
-	"$selfillum" 1
 	"$model" 1
 }

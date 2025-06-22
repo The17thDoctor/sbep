@@ -13,3 +13,5 @@ beta.txt
 
 #Komodo Project file (Because yeah, komodo is a good editor, but it needs a project file, d'uh)
 *.komodoproject
+
+*/.vscode/
